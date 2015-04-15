@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/prefix1">
+        <file>prefix1/qt_zh_CN.qm</file>
+    </qresource>
+</RCC>
